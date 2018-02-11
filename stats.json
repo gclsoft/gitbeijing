@@ -1,82 +1,86 @@
 {
   "assetsByChunkName": {
-    "path---fork-flow": [
-      "path---fork-flow-3cbea7926ef8bb16ae5a.js",
-      "path---fork-flow-3cbea7926ef8bb16ae5a.js.map"
+    "path---more-html": [
+      "path---more-html-509772fbba25c159c043.js",
+      "path---more-html-509772fbba25c159c043.js.map"
+    ],
+    "path---github-in-browser-html": [
+      "path---github-in-browser-html-1f3e1c9cb8b259d0c036.js",
+      "path---github-in-browser-html-1f3e1c9cb8b259d0c036.js.map"
+    ],
+    "path---next-step-html": [
+      "path---next-step-html-85bf220379eed03c3aad.js",
+      "path---next-step-html-85bf220379eed03c3aad.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-915cb47148b42d32472c.js",
       "component---src-pages-index-js-915cb47148b42d32472c.js.map"
     ],
-    "path---history": [
-      "path---history-917762e2404e561a67d2.js",
-      "path---history-917762e2404e561a67d2.js.map"
+    "path---history-html": [
+      "path---history-html-917762e2404e561a67d2.js",
+      "path---history-html-917762e2404e561a67d2.js.map"
     ],
-    "path---issues": [
-      "path---issues-a4e66647df99944a2cc8.js",
-      "path---issues-a4e66647df99944a2cc8.js.map"
+    "path---introduction-html": [
+      "path---introduction-html-fbd6064cefd040cab403.js",
+      "path---introduction-html-fbd6064cefd040cab403.js.map"
+    ],
+    "path---github-flow-html": [
+      "path---github-flow-html-a1ee28821109fdae7b3d.js",
+      "path---github-flow-html-a1ee28821109fdae7b3d.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---more": [
-      "path---more-509772fbba25c159c043.js",
-      "path---more-509772fbba25c159c043.js.map"
+    "path---html": [
+      "path---html-9e652d355e81bfb154cd.js",
+      "path---html-9e652d355e81bfb154cd.js.map"
+    ],
+    "path---issues-html": [
+      "path---issues-html-a4e66647df99944a2cc8.js",
+      "path---issues-html-a4e66647df99944a2cc8.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-b422ae3ba7ef0c06368e.js",
       "component---src-templates-blog-post-js-b422ae3ba7ef0c06368e.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-e901fac629f01b4901ce.js",
-      "component---src-layouts-index-js-e901fac629f01b4901ce.js.map"
+      "component---src-layouts-index-js-2eecffc6373a976b107c.js",
+      "component---src-layouts-index-js-2eecffc6373a976b107c.js.map"
+    ],
+    "path---fork-flow-html": [
+      "path---fork-flow-html-3cbea7926ef8bb16ae5a.js",
+      "path---fork-flow-html-3cbea7926ef8bb16ae5a.js.map"
     ],
     "path---index": [
       "path---index-d9b976edc2deca23652f.js",
       "path---index-d9b976edc2deca23652f.js.map"
     ],
-    "path---github-for-mac": [
-      "path---github-for-mac-e9e4d12d87fc72628795.js",
-      "path---github-for-mac-e9e4d12d87fc72628795.js.map"
-    ],
-    "path---merge": [
-      "path---merge-ff1dfe0a56133b6e27c4.js",
-      "path---merge-ff1dfe0a56133b6e27c4.js.map"
-    ],
-    "path---introduction": [
-      "path---introduction-fbd6064cefd040cab403.js",
-      "path---introduction-fbd6064cefd040cab403.js.map"
-    ],
     "commons": [
       "commons-fbcf7ad79a754f51e85c.js",
       "commons-fbcf7ad79a754f51e85c.js.map"
     ],
-    "path---next-step": [
-      "path---next-step-85bf220379eed03c3aad.js",
-      "path---next-step-85bf220379eed03c3aad.js.map"
+    "path---github-for-mac-html": [
+      "path---github-for-mac-html-e9e4d12d87fc72628795.js",
+      "path---github-for-mac-html-e9e4d12d87fc72628795.js.map"
     ],
-    "path---pages": [
-      "path---pages-f5530a0a6dd5bd7c3ede.js",
-      "path---pages-f5530a0a6dd5bd7c3ede.js.map"
-    ],
-    "path---simple-branching": [
-      "path---simple-branching-0bf11e40b8a5037f8168.js",
-      "path---simple-branching-0bf11e40b8a5037f8168.js.map"
+    "path---merge-html": [
+      "path---merge-html-ff1dfe0a56133b6e27c4.js",
+      "path---merge-html-ff1dfe0a56133b6e27c4.js.map"
     ],
     "app": [
-      "app-7969a278015f907f6512.js",
+      "app-68bfc2ba26a424f4d9fb.js",
       "build-js-styles.css",
-      "app-7969a278015f907f6512.js.map",
+      "app-68bfc2ba26a424f4d9fb.js.map",
       "build-js-styles.css.map"
     ],
-    "path---github-flow": [
-      "path---github-flow-a1ee28821109fdae7b3d.js",
-      "path---github-flow-a1ee28821109fdae7b3d.js.map"
+    "path---pages-html": [
+      "path---pages-html-f5530a0a6dd5bd7c3ede.js",
+      "path---pages-html-f5530a0a6dd5bd7c3ede.js.map"
     ],
-    "path---github-in-browser": [
-      "path---github-in-browser-1f3e1c9cb8b259d0c036.js",
-      "path---github-in-browser-1f3e1c9cb8b259d0c036.js.map"
+    "path---simple-branching-html": [
+      "path---simple-branching-html-0bf11e40b8a5037f8168.js",
+      "path---simple-branching-html-0bf11e40b8a5037f8168.js.map"
     ]
   }
 }
